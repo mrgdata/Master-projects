@@ -16,4 +16,11 @@
 
 ### Se intenta predecir los datos de Rafael Nadal en el año 2016 con un bosque aleatorio (ponderado y "cortado") entrenando datos de la ATP entre 2002 a 2015 (*match_scores* y *match_stats*). El resultado es muy bueno, pero depende de variables que son algo difícil de recoger, como los aces o los tiebreaks.
 
+## 5. SQL_Modeling_Consult
+
+### Se crea un BBDD relacional en MySQL con varios triggers para conectar los campos de las distintas tablas entre sí. Posteriormente se insertan datos en la BBDD y se realizan consultas sobre ella, así como se crean nuevas tablas. Por último, se escribe un procedure y un event para guardar periódicamente la información de ciertas tablas en un nuevo dataset.
+
+## 6. acvil_query
+
+### Se realizan varias querys complejas en MongoDB para convertir un dataset a un formato embedido y realizar consultas, joins y cálculos sobre este. Los datos que se han utilizado son también de Animal Crossing, en los ficheros *csvjson* y *housewares*
 ### PD. Todos los datos utilizados están disponibles en la carpeta *datasets*
