@@ -6,12 +6,12 @@
 
 ## 2. Renta per cápita y Esperanza de vida
 
-### Con el csv Info_pais se cogen datos de estos indicadores para casi todos los países del mundo y se muestra cómo podemos graficarlos en matplotlib. Además, se explica cómo realizar una regresión lineal ponderada con statsmodel.
+### Con el csv *Info_pais* se cogen datos de estos indicadores para casi todos los países del mundo y se muestra cómo podemos graficarlos en matplotlib. Además, se explica cómo realizar una regresión lineal ponderada con statsmodel.
 
 ## 3. AC_find_villagers
 
-### Cargando el csv "villagers", introduce tu mes y tu día de nacimiento y mira con quiénes compartes cumpleaños en Animal Crossing New Horizons y cuáles son sus características en el juego
+### Cargando el csv *villagers*, introduce tu mes y tu día de nacimiento y mira con quiénes compartes cumpleaños en Animal Crossing New Horizons y cuáles son sus características en el juego
 
 ## 4. Predicción tenis
 
-### Se intenta predecir los datos de Rafael Nadal en el año 2016 con un bosque aleatorio (ponderado y "cortado") entrenando datos de la ATP entre 2002 a 2015 (match_scores y match_stats). El resultado es muy bueno, pero depende de variables que son algo difícil de recoger, como los aces o los tiebreaks.
+### Se intenta predecir los datos de Rafael Nadal en el año 2016 con un bosque aleatorio (ponderado y "cortado") entrenando datos de la ATP entre 2002 a 2015 (*match_scores* y *match_stats*). El resultado es muy bueno, pero depende de variables que son algo difícil de recoger, como los aces o los tiebreaks.
