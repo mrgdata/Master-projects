@@ -8,3 +8,7 @@
 
 ### Con el csv Info_pais se cogen datos de estos indicadores para casi todos los países del mundo y se muestra cómo podemos graficarlos en matplotlib. Además, se explica cómo realizar una regresión lineal ponderada con statsmodel.
 
+
+## 3. Predicción tenis
+
+### Se intenta predecir los datos de Rafael Nadal en el año 2016 con un bosque aleatorio (ponderado y "cortado") entrenando datos de la ATP entre 2002 a 2015 (match_scores y match_stats). El resultado es muy bueno, pero depende de variables que son algo difícil de recoger, como los aces o los tiebreaks.
