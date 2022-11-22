@@ -15,3 +15,5 @@
 ## 4. Predicción tenis
 
 ### Se intenta predecir los datos de Rafael Nadal en el año 2016 con un bosque aleatorio (ponderado y "cortado") entrenando datos de la ATP entre 2002 a 2015 (*match_scores* y *match_stats*). El resultado es muy bueno, pero depende de variables que son algo difícil de recoger, como los aces o los tiebreaks.
+
+### PD. Todos los datos utilizados están disponibles en la carpeta *datasets*
