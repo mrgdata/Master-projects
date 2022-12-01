@@ -6,15 +6,15 @@
 
 ## 2. Renta per cápita y Esperanza de vida
 
-### Con el csv *Info_pais* se cogen datos de estos indicadores para casi todos los países del mundo y se muestra cómo podemos graficarlos en matplotlib. Además, se explica cómo realizar una regresión lineal ponderada con statsmodel.
+### Con el csv *Info_pais* se cogen datos de estos indicadores para casi todos los países del mundo y se muestra cómo podemos graficarlos en matplotlib y crear un gif. Además, se explica cómo realizar una regresión lineal ponderada con statsmodels.
 
 ## 3. AC_find_villagers
 
-### Cargando el csv *villagers*, introduce tu mes y tu día de nacimiento y mira con quiénes compartes cumpleaños en Animal Crossing New Horizons y cuáles son sus características en el juego
+### Cargando el csv *villagers*, introduce tu mes y tu día de nacimiento y mira con quiénes compartes cumpleaños en Animal Crossing New Horizons y cuáles son sus características en el juego.
 
 ## 4. Predicción tenis
 
-### Se intenta predecir los datos de Rafael Nadal en el año 2016 con un bosque aleatorio (ponderado y "cortado") entrenando datos de la ATP entre 2002 a 2015 (*match_scores* y *match_stats*). El resultado es muy bueno, pero depende de variables que son algo difícil de recoger, como los aces o los tiebreaks.
+### Se intenta predecir los datos de Rafael Nadal en el año 2016 con un bosque aleatorio (ponderado y "cortado") en Scikit-learn entrenando datos de la ATP entre 2002 a 2015 (*match_scores* y *match_stats*). El resultado es muy bueno, pero depende de variables que son algo difícil de recoger, como los aces o los tiebreaks.
 
 ## 5. SQL_Modeling_Consult
 
@@ -22,5 +22,10 @@
 
 ## 6. acvil_query
 
-### Se realizan varias querys complejas en MongoDB para convertir un dataset a un formato embedido y realizar consultas, joins y cálculos sobre este. Los datos que se han utilizado son también de Animal Crossing, en los ficheros *csvjson* y *housewares*
+### Se realizan varias querys complejas en MongoDB para convertir un dataset a un formato embedido y realizar consultas, joins y cálculos sobre este. Los datos que se han utilizado son también de Animal Crossing, en los ficheros *csvjson* y *housewares*.
+
+## 7. Tarea Estadística
+
+### Se realiza estadística descriptiva y varios contrastes de hipótesis paramétricos y no paramétricos para evaluar información acerca de un experimento sobre el nivel de glucosa en pacientes jóvenes y adultos. Las librerías utilizadas son principalmentes pandas, numpy, seaborn, matplotlib, scipy y statsmodels.
+
 ### PD. Todos los datos utilizados están disponibles en la carpeta *datasets*
