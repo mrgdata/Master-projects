@@ -20,8 +20,9 @@
 
 ### Se realiza estadística descriptiva y varios contrastes de hipótesis paramétricos y no paramétricos para evaluar información acerca de un experimento sobre el nivel de glucosa en pacientes jóvenes y adultos. Las librerías utilizadas son principalmentes pandas, numpy, seaborn, matplotlib, scipy y statsmodels.
 
-## 6. Tarea Minería de datos (incompleta)
+## 6. Tarea Minería de datos
 
 ### En el ejercicio 1 se realiza un análisis descriptivo exhaustivo de datos sociodemográficos que pueden determinar el volumen respiratorio en una población joven. Posteriormente se realiza una selección de variables y de diferentes modelos de regresión lineal múltiple mediante validación cruzada y se escoge el más preciso.
-
-### PD. Todos los datos utilizados están disponibles en la carpeta *datasets*
+### En el ejercicio 3 se toman datos históricos de muertes en españa, seleccionando aquellas no causadas por tumores, una de las causas mayoritarias de muerte no natural. Se realizan varias descomposiciones estacionales y varios modelos de suavizado y SARIMA para analizar la serie -todos son univariantes ya que no hemos tomado datos adicionales-. Para su comparación se tienen en cuenta el RMSE y el test de Ljung-Box tomando diferentes períodos de tiempo para el test.
+### En el Ejercicio 4 se toman datos sobre variables relacionadas con el cáncer de mama y se realiza una agrupación mediante ACP de las variables, tomando 3 componentes que alcanzan superan el 70% de la varianza y se intentan interpretar. Posteriormente se evalúa un modelo de regresión logística pro cross-validación con statsmodels y con sklearn con estos tres componentes para predecir la probabilidad de no tener cáncer, el cual logra una precisión del 96% muy bien balanceada.
+### En el Ejercicio 5 se toman datos económicos, políticos y sociodemográficos de municipios españoles, se agrupan por CCAA y se crea una función que encuentra las mejores variables para minimizar la silueta del algoritmo KMeans, especificando el número de variables que se quieren (10, en este caso) y un rango de de clusters a buscar. Además, también se exploran modelos de clustering jerárquico. Por último se observa la relación de los clusters con las variables seleccionadas y la dirección que toman en la explicación de los clusters y se interpretan los resultados.
