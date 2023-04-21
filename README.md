@@ -30,3 +30,7 @@
 ## 7. Tarea ML
 
 ### Propuesta para el concurso Pump It Up! (https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/25/), Score: 0.7780. Se lidia con el problema de missings, outliers y cardinalidad principalmente con la información geográfica del dataset
+
+## 8. Tarea text mining
+
+### Ejercicio de preprocessing, exploración, vectorización y modelización de datos de tweets del challenge *ProfNER-ST: Identification of professions & occupations in Health-related Social Media*
