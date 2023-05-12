@@ -34,3 +34,7 @@
 ## 8. Tarea text mining
 
 ### Ejercicio de preprocessing, exploración, vectorización y modelización de datos de tweets del challenge *ProfNER-ST: Identification of professions & occupations in Health-related Social Media*
+
+## 9. Visualization
+
+### Ejercicio de data cleaning y visualización y análisis de cómo ha afectado la pandemia a la evolución de las series temporales de contratación via ETTs en varios sectores económicos
