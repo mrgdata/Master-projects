@@ -38,3 +38,7 @@
 ## 9. Visualization
 
 ### Ejercicio de data cleaning y visualización y análisis de cómo ha afectado la pandemia a la evolución de las series temporales de contratación via ETTs en varios sectores económicos
+
+## 10. Spark_Example
+
+### Ejercicio sencillo de análisis de datos como introducción a PySpark
