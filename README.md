@@ -42,3 +42,8 @@
 ## 10. Spark_Example
 
 ### Ejercicio sencillo de análisis de datos como introducción a PySpark
+
+## 11. Tarea Deep Learning
+
+### Ejercicio introductorio de Redes Neuronales para investigar como 1) técnicas de regularización y optimización pueden mejorar la predicción 2) Cómo la convolución, el pooling y el data augmentation son herramientas fundamentales para la clasificación de imágenes y 3) las diferencias entre diversos tipos de RNN, especialmente GRU y LSTM.
+
